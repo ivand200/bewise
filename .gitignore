@@ -1,0 +1,14 @@
+# pytest
+.pytest_cache/
+tests/__pycache__
+
+# app
+app/__pycache__
+
+# database
+database/__pycache__
+database/.env
+
+# .env
+database.env
+
